@@ -1,0 +1,14 @@
+//
+// Created by 萧博成 on 2021/10/17.
+//
+
+#ifndef CADSS_PROTOTYPE_CALPREDICTOR_HPP
+#define CADSS_PROTOTYPE_CALPREDICTOR_HPP
+
+
+class CalPredictor {
+
+};
+
+
+#endif //CADSS_PROTOTYPE_CALPREDICTOR_HPP
