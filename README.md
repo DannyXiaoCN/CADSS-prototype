@@ -20,4 +20,4 @@ Currently, a demo-version of the prototype system is finished, ncluding implemen
 
 
 
-$*$ Explanation for autonomy: every task has its own applied algorithm and manager system to control its running and stopping, and also directly interact with LogManager for data transmission. 
+* Explanation for autonomy: every task has its own applied algorithm and manager system to control its running and stopping, and also directly interact with LogManager for data transmission. 
