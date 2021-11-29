@@ -14,7 +14,7 @@ All the Tasks and AgentLogs are initialized by outside controller Simulator, whi
 
 With the decentralization, the system has a better robustness and fault tolerance ability. Moreover, the implementation is easy to be deployed on Cloud-based systems for distributed calculation.
 
-Currently, a demo-version of the prototype system is finished, ncluding implementation, structure design and system testing. The framework supports two kinds of simulation, Step Simulation and Real-time Simulation, developed on C++ with solid implementation.
+Currently, a demo-version of the prototype system is finished, including implementation, structure design and system testing. The framework supports two kinds of simulation, Step Simulation and Real-time Simulation, developed on C++ with solid implementation.
 
 
 
